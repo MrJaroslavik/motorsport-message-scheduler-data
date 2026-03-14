@@ -3,17 +3,7 @@
 
 export const SUPERFORMULA_WEEKENDS = [
 
-  // ===============================
-  // TEST 1 – Suzuka
-  // ===============================
-  {
-    slug: "sf_test1_suzuka_2026",
-    name: "Suzuka Test 1",
-    sessions: [
-      { slug: "test_day1", label: "Test – Day 1", datetime: "2026-02-25" },
-      { slug: "test_day2", label: "Test – Day 2", datetime: "2026-02-26" },
-    ],
-  },
+
 
   // ===============================
   // Rd. 1–2 – Motegi
