@@ -3,19 +3,6 @@
 
 export const MOTOGP_WEEKENDS = [
 
-{
-  slug: "motogp_thailand_2026",
-  name: "Thai",
-  sessions: [
-    { slug: "fp1", label: "Free Practice 1", datetime: "2026-02-27 04:45" },
-    { slug: "practice", label: "Practice", datetime: "2026-02-27 09:00" },
-    { slug: "fp2", label: "Free Practice 2", datetime: "2026-02-28 04:10" },
-    { slug: "qualifying", label: "Qualifying", datetime: "2026-02-28 04:50" },
-    { slug: "sprint", label: "Sprint", datetime: "2026-02-28 09:00" },
-    { slug: "race", label: "Race", datetime: "2026-03-01 09:00" },
-  ],
-},
-
   {
     slug: "motogp_brazil_2026",
     name: "Brazil",
