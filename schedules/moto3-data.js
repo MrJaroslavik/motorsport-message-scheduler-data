@@ -4,17 +4,7 @@
 
 export const MOTO3_WEEKENDS = [
 
-  {
-    slug: "moto3_thai_2026",
-    name: "Thai",
-    sessions: [
-      { slug: "fp1", label: "Free Practice 1", datetime: "2026-02-27 03:00" },
-      { slug: "pr", label: "Practice", datetime: "2026-02-27 07:15" },
-      { slug: "fp2", label: "Free Practice 2", datetime: "2026-02-28 02:40" },
-      { slug: "qualifying", label: "Qualifying", datetime: "2026-02-28 06:45" },
-      { slug: "race", label: "Race", datetime: "2026-03-01 06:00" },
-    ],
-  },
+
 
   {
     slug: "moto3_brasil_2026",
