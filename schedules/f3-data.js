@@ -3,31 +3,6 @@
 
 export const F3_WEEKENDS = [
 
-  {
-    slug: "f3_australia_2026",
-    name: "Australian",
-    sessions: [
-      { slug: "practice", label: "Practice", datetime: "2026-03-05 22:50" },
-      { slug: "qualifying", label: "Qualifying", datetime: "2026-03-06 04:00" },
-      { slug: "sprint", label: "Sprint Race", datetime: "2026-03-07 01:15" },
-      { slug: "feature", label: "Feature Race", datetime: "2026-03-07 22:50" },
-    ],
-  },
-
-  // =================================================
-  // Upcoming rounds – without times
-  // =================================================
-
-  {
-    slug: "f3_sakhir_2026",
-    name: "Bahrain",
-    sessions: [
-      { slug: "practice", label: "Practice", datetime: "2026-04-10" },
-      { slug: "qualifying", label: "Qualifying", datetime: "2026-04-10" },
-      { slug: "sprint", label: "Sprint Race", datetime: "2026-04-11" },
-      { slug: "feature", label: "Feature Race", datetime: "2026-04-12" },
-    ],
-  },
 
   {
     slug: "f3_monaco_2026",
