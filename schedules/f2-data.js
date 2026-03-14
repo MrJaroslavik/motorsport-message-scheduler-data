@@ -4,43 +4,6 @@
 export const F2_WEEKENDS = [
 
   {
-    slug: "f2_australia_2026",
-    name: "Australian",
-    sessions: [
-      { slug: "fp", label: "Free Practice", datetime: "2026-03-06 00:00" },
-      { slug: "qualifying", label: "Qualifying", datetime: "2026-03-06 04:55" },
-      { slug: "sprint", label: "Sprint Race", datetime: "2026-03-07 04:10" },
-      { slug: "feature", label: "Feature Race", datetime: "2026-03-08 01:25" },
-    ],
-  },
-
-  // =================================================
-  // 2026 Calendar – Times TBA
-  // =================================================
-
-  {
-    slug: "f2_sakhir_2026",
-    name: "Bahrain",
-    sessions: [
-      { slug: "fp", label: "Free Practice", datetime: "2026-04-10" },
-      { slug: "qualifying", label: "Qualifying", datetime: "2026-04-10" },
-      { slug: "sprint", label: "Sprint Race", datetime: "2026-04-11" },
-      { slug: "feature", label: "Feature Race", datetime: "2026-04-12" },
-    ],
-  },
-
-  {
-    slug: "f2_jeddah_2026",
-    name: "Saudi Arabian",
-    sessions: [
-      { slug: "fp", label: "Free Practice", datetime: "2026-04-17" },
-      { slug: "qualifying", label: "Qualifying", datetime: "2026-04-17" },
-      { slug: "sprint", label: "Sprint Race", datetime: "2026-04-18" },
-      { slug: "feature", label: "Feature Race", datetime: "2026-04-19" },
-    ],
-  },
-
-  {
     slug: "f2_monaco_2026",
     name: "Monaco",
     sessions: [
