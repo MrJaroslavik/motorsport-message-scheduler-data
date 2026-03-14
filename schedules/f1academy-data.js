@@ -19,17 +19,6 @@ export const F1A_WEEKENDS = [
   // =================================================
 
   {
-    slug: "f1a_jeddah_2026",
-    name: "Saudi Arabian",
-    sessions: [
-      { slug: "fp", label: "Free Practice", datetime: "2026-04-17" },
-      { slug: "qualifying", label: "Qualifying", datetime: "2026-04-17" },
-      { slug: "race1", label: "Race 1", datetime: "2026-04-18" },
-      { slug: "race2", label: "Race 2", datetime: "2026-04-19" },
-    ],
-  },
-
-  {
     slug: "f1a_montreal_2026",
     name: "Canadian",
     sessions: [
