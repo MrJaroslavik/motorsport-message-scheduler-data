@@ -5,20 +5,6 @@
 export const WORLDSBK_WEEKENDS = [
 
   {
-    slug: "wsbk_australia_2026",
-    name: "Australian",
-    sessions: [
-      { slug: "fp1", label: "Free Practice 1", datetime: "2026-02-20 01:20" },
-      { slug: "fp2", label: "Free Practice 2", datetime: "2026-02-20 06:00" },
-      { slug: "fp3", label: "Free Practice 3", datetime: "2026-02-21 00:00" },
-      { slug: "superpole", label: "Superpole", datetime: "2026-02-21 03:00" },
-      { slug: "race1", label: "Race 1", datetime: "2026-02-21 06:00" },
-      { slug: "spr", label: "Superpole Race", datetime: "2026-02-22 03:00" },
-      { slug: "race2", label: "Race 2", datetime: "2026-02-22 06:00" },
-    ],
-  },
-
-  {
     slug: "wsbk_portugal_2026",
     name: "Portuguese",
     sessions: [
