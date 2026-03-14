@@ -4,49 +4,6 @@
 export const FORMULAE_WEEKENDS = [
 
   {
-    slug: "fe_mexico_2026",
-    name: "Mexico City",
-    sessions: [
-      { slug: "fp1", label: "Free Practice 1", datetime: "2026-01-09 23:00" },
-      { slug: "fp2", label: "Free Practice 2", datetime: "2026-01-10 14:30" },
-      { slug: "qualifying", label: "Qualifying", datetime: "2026-01-10 16:40" },
-      { slug: "race", label: "Race", datetime: "2026-01-10 21:05" },
-    ],
-  },
-
-  {
-    slug: "fe_miami_2026",
-    name: "Miami",
-    sessions: [
-      { slug: "fp1", label: "Free Practice 1", datetime: "2026-01-30 23:00" },
-      { slug: "fp2", label: "Free Practice 2", datetime: "2026-01-31 13:30" },
-      { slug: "qualifying", label: "Qualifying", datetime: "2026-01-31 15:40" },
-      { slug: "race", label: "Race", datetime: "2026-01-31 20:05" },
-    ],
-  },
-
-  {
-    slug: "fe_jeddah1_2026",
-    name: "Jeddah I",
-    sessions: [
-      { slug: "fp1", label: "Free Practice 1", datetime: "2026-02-12 18:00" },
-      { slug: "fp2", label: "Free Practice 2", datetime: "2026-02-13 11:30" },
-      { slug: "qualifying", label: "Qualifying", datetime: "2026-02-13 13:40" },
-      { slug: "race", label: "Race", datetime: "2026-02-13 18:05" },
-    ],
-  },
-
-  {
-    slug: "fe_jeddah2_2026",
-    name: "Jeddah II",
-    sessions: [
-      { slug: "fp3", label: "Free Practice 3", datetime: "2026-02-14 11:30" },
-      { slug: "qualifying", label: "Qualifying", datetime: "2026-02-14 13:40" },
-      { slug: "race", label: "Race", datetime: "2026-02-14 18:05" },
-    ],
-  },
-
-  {
     slug: "fe_madrid_2026",
     name: "Madrid",
     sessions: [
