@@ -25,31 +25,7 @@ export const F1_WEEKENDS = [
       { slug: "race", label: "Race", datetime: "2026-03-29 07:00" },
     ],
   },
-
-  {
-    slug: "f1_bahrain_2026",
-    name: "Bahrain",
-    sessions: [
-      { slug: "fp1", label: "Practice 1", datetime: "2026-04-10 13:30" },
-      { slug: "fp2", label: "Practice 2", datetime: "2026-04-10 17:00" },
-      { slug: "fp3", label: "Practice 3", datetime: "2026-04-11 14:30" },
-      { slug: "qualifying", label: "Qualifying", datetime: "2026-04-11 18:00" },
-      { slug: "race", label: "Race", datetime: "2026-04-12 17:00" },
-    ],
-  },
-
-  {
-    slug: "f1_saudi_arabia_2026",
-    name: "Saudi Arabian",
-    sessions: [
-      { slug: "fp1", label: "Practice 1", datetime: "2026-04-17 15:30" },
-      { slug: "fp2", label: "Practice 2", datetime: "2026-04-17 19:00" },
-      { slug: "fp3", label: "Practice 3", datetime: "2026-04-18 15:30" },
-      { slug: "qualifying", label: "Qualifying", datetime: "2026-04-18 19:00" },
-      { slug: "race", label: "Race", datetime: "2026-04-19 19:00" },
-    ],
-  },
-
+  
   {
     slug: "f1_miami_2026",
     name: "Miami",
