@@ -2,25 +2,6 @@
 // Data-only soubor – žádná logika
 
 export const F1_WEEKENDS = [
-   {
-    slug: "others_xxx_test_xxx",
-    name: "Prague",
-    sessions: [
-      { slug: "race", label: "Race", datetime: "2026-03-04 21:20" },
-    ],
-  },
-  {
-    slug: "f1_australia_2026",
-    name: "Australian",
-    sessions: [
-      { slug: "fp1", label: "Practice 1", datetime: "2026-03-06 02:30" },
-      { slug: "fp2", label: "Practice 2", datetime: "2026-03-06 06:00" },
-      { slug: "fp3", label: "Practice 3", datetime: "2026-03-07 02:30" },
-      { slug: "qualifying", label: "Qualifying", datetime: "2026-03-07 06:00" },
-      { slug: "race", label: "Race", datetime: "2026-03-08 05:00" },
-    ],
-  },
-
   {
     slug: "f1_china_2026",
     name: "Chinese",
