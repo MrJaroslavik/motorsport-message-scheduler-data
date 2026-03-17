@@ -29,18 +29,6 @@ export const MOTO2_WEEKENDS = [
   },
 
   {
-    slug: "moto2_qatar_2026",
-    name: "Qatar",
-    sessions: [
-      { slug: "fp1", label: "Free Practice 1", datetime: "2026-04-10 13:50" },
-      { slug: "pr", label: "Practice", datetime: "2026-04-10 18:05" },
-      { slug: "fp2", label: "Free Practice 2", datetime: "2026-04-11 13:15" },
-      { slug: "qualifying", label: "Qualifying", datetime: "2026-04-11 17:40" },
-      { slug: "race", label: "Race", datetime: "2026-04-12 17:15" },
-    ],
-  },
-
-  {
     slug: "moto2_spanish_2026",
     name: "Spanish",
     sessions: [
@@ -231,6 +219,18 @@ export const MOTO2_WEEKENDS = [
       { slug: "race", label: "Race", datetime: "2026-11-01 06:15" },
     ],
   },
+
+  {
+  slug: "moto2_qatar_2026",
+  name: "Qatar",
+  sessions: [
+    { slug: "fp1", label: "Free Practice 1", datetime: "2026-11-06 12:50" },
+    { slug: "pr", label: "Practice", datetime: "2026-11-06 17:05" },
+    { slug: "fp2", label: "Free Practice 2", datetime: "2026-11-07 12:15" },
+    { slug: "qualifying", label: "Qualifying", datetime: "2026-11-07 16:40" },
+    { slug: "race", label: "Race", datetime: "2026-11-08 16:15" },
+  ],
+},
 
   {
     slug: "moto2_portuguese_2026",
