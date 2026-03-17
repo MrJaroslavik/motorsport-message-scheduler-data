@@ -30,19 +30,6 @@ export const MOTOGP_WEEKENDS = [
   },
 
   {
-    slug: "motogp_qatar_2026",
-    name: "Qatar",
-    sessions: [
-      { slug: "fp1", label: "Free Practice 1", datetime: "2026-04-10 14:45" },
-      { slug: "practice", label: "Practice", datetime: "2026-04-10 19:00" },
-      { slug: "fp2", label: "Free Practice 2", datetime: "2026-04-11 14:00" },
-      { slug: "qualifying", label: "Qualifying", datetime: "2026-04-11 14:40" },
-      { slug: "sprint", label: "Sprint", datetime: "2026-04-11 19:00" },
-      { slug: "race", label: "Race", datetime: "2026-04-12 19:00" },
-    ],
-  },
-
-  {
     slug: "motogp_spanish_2026",
     name: "Spanish",
     sessions: [
@@ -249,6 +236,19 @@ export const MOTOGP_WEEKENDS = [
       { slug: "race", label: "Race", datetime: "2026-11-01 08:00" },
     ],
   },
+
+  {
+  slug: "motogp_qatar_2026",
+  name: "Qatar",
+  sessions: [
+    { slug: "fp1", label: "Free Practice 1", datetime: "2026-11-06 13:45" },
+    { slug: "practice", label: "Practice", datetime: "2026-11-06 18:00" },
+    { slug: "fp2", label: "Free Practice 2", datetime: "2026-11-06 13:00" },
+    { slug: "qualifying", label: "Qualifying", datetime: "2026-11-07 13:40" },
+    { slug: "sprint", label: "Sprint", datetime: "2026-11-07 18:00" },
+    { slug: "race", label: "Race", datetime: "2026-11-08 18:00" },
+  ],
+},
 
   {
     slug: "motogp_portuguese_2026",
