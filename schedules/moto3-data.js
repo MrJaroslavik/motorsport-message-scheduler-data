@@ -4,8 +4,6 @@
 
 export const MOTO3_WEEKENDS = [
 
-
-
   {
     slug: "moto3_brasil_2026",
     name: "Brasil",
@@ -27,18 +25,6 @@ export const MOTO3_WEEKENDS = [
       { slug: "fp2", label: "Free Practice 2", datetime: "2026-03-28 14:40" },
       { slug: "qualifying", label: "Qualifying", datetime: "2026-03-28 18:45" },
       { slug: "race", label: "Race", datetime: "2026-03-29 18:00" },
-    ],
-  },
-
-  {
-    slug: "moto3_qatar_2026",
-    name: "Qatar",
-    sessions: [
-      { slug: "fp1", label: "Free Practice 1", datetime: "2026-04-10 12:00" },
-      { slug: "pr", label: "Practice", datetime: "2026-04-10 16:15" },
-      { slug: "fp2", label: "Free Practice 2", datetime: "2026-04-11 11:30" },
-      { slug: "qualifying", label: "Qualifying", datetime: "2026-04-11 15:45" },
-      { slug: "race", label: "Race", datetime: "2026-04-12 15:00" },
     ],
   },
 
@@ -233,6 +219,18 @@ export const MOTO3_WEEKENDS = [
       { slug: "race", label: "Race", datetime: "2026-11-01 04:00" },
     ],
   },
+
+   {
+  slug: "moto3_qatar_2026",
+  name: "Qatar",
+  sessions: [
+    { slug: "fp1", label: "Free Practice 1", datetime: "2026-11-06 12:00" },
+    { slug: "pr", label: "Practice", datetime: "2026-11-06 16:15" },
+    { slug: "fp2", label: "Free Practice 2", datetime: "2026-11-07 11:30" },
+    { slug: "qualifying", label: "Qualifying", datetime: "2026-11-07 15:45" },
+    { slug: "race", label: "Race", datetime: "2026-11-08 15:00" },
+  ],
+},
 
   {
     slug: "moto3_portuguese_2026",
