@@ -114,4 +114,15 @@ export const F2_WEEKENDS = [
     ],
   },
 
+  {
+  slug: "f2_abu_dhabi_2026",
+  name: "Abu Dhabi",
+  sessions: [
+    { slug: "fp", label: "Free Practice", datetime: "2026-12-04" },
+    { slug: "qualifying", label: "Qualifying", datetime: "2026-12-04" },
+    { slug: "sprint", label: "Sprint Race", datetime: "2026-12-05" },
+    { slug: "feature", label: "Feature Race", datetime: "2026-12-06" },
+  ],
+},
+
 ];
