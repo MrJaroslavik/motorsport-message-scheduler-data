@@ -53,18 +53,6 @@ export const SUPERFORMULA_WEEKENDS = [
   },
 
   // ===============================
-  // TEST 2 – Fuji
-  // ===============================
-  {
-    slug: "sf_test2_fuji_2026",
-    name: "Fuji Test 2",
-    sessions: [
-      { slug: "test_day1", label: "Test – Day 1", datetime: "2026-06-30" },
-      { slug: "test_day2", label: "Test – Day 2", datetime: "2026-07-01" },
-    ],
-  },
-
-  // ===============================
   // Rd. 6–7 – Fuji
   // ===============================
   {
