@@ -4,19 +4,6 @@
 
 export const WEC_WEEKENDS = [
 
-//  {
-//    slug: "wec_qatar_2026",
-//    name: "Qatar 1812km",
-//    sessions: [
-//      { slug: "fp1", label: "Free Practice 1", datetime: "2026-03-26 15:00" },
-  //    { slug: "fp2", label: "Free Practice 2", datetime: "2026-03-26 19:30" },
- //     { slug: "fp3", label: "Free Practice 3", datetime: "2026-03-27 13:00" },
-  //    { slug: "qual_lmgt3", label: "Qualifying - LMGT3", datetime: "2026-03-27 17:00" },
-//      { slug: "qual_hypercar", label: "Qualifying - HYPERCAR", datetime: "2026-03-27 17:40" },
-   //   { slug: "race", label: "Race", datetime: "2026-03-28 13:00" },
-//    ],
-//  },
-
   {
     slug: "wec_imola_2026",
     name: "6 Hours of Imola",
@@ -97,6 +84,21 @@ export const WEC_WEEKENDS = [
     ],
   },
 
+{
+  slug: "wec_qatar_2026",
+  name: "1812km of Qatar",
+  sessions: [
+    { slug: "fp1", label: "Free Practice 1", datetime: "2026-10-22" },
+    { slug: "fp2", label: "Free Practice 2", datetime: "2026-10-22" },
+    { slug: "fp3", label: "Free Practice 3", datetime: "2026-10-23" },
+    { slug: "qual_lmgt3", label: "Qualifying - LMGT3", datetime: "2026-10-23" },
+    { slug: "hyperpole_lmgt3", label: "Hyperpole - LMGT3", datetime: "2026-10-23" },
+    { slug: "qual_hypercar", label: "Qualifying - HYPERCAR", datetime: "2026-10-23" },
+    { slug: "hyperpole_hypercar", label: "Hyperpole - HYPERCAR", datetime: "2026-10-23" },
+    { slug: "race", label: "Race", datetime: "2026-10-24" },
+  ],
+},
+  
   {
     slug: "wec_bahrain_2026",
     name: "8 Hours of Bahrain",
