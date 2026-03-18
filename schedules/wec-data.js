@@ -4,18 +4,18 @@
 
 export const WEC_WEEKENDS = [
 
-  {
-    slug: "wec_imola_2026",
-    name: "6 Hours of Imola",
-    sessions: [
-      { slug: "fp1", label: "Free Practice 1", datetime: "2026-04-17" },
-      { slug: "fp2", label: "Free Practice 2", datetime: "2026-04-17" },
-      { slug: "fp3", label: "Free Practice 3", datetime: "2026-04-18" },
-      { slug: "qual_lmgt3", label: "Qualifying - LMGT3", datetime: "2026-04-18" },
-      { slug: "qual_hypercar", label: "Qualifying - HYPERCAR", datetime: "2026-04-18" },
-      { slug: "race", label: "Race", datetime: "2026-04-19" },
-    ],
-  },
+{
+  slug: "wec_imola_2026",
+  name: "6 Hours of Imola",
+  sessions: [
+    { slug: "fp1", label: "Free Practice 1", datetime: "2026-04-17 10:15" },
+    { slug: "fp2", label: "Free Practice 2", datetime: "2026-04-17 15:15" },
+    { slug: "fp3", label: "Free Practice 3", datetime: "2026-04-18 10:30" },
+    { slug: "qual_lmgt3", label: "Qualifying - LMGT3", datetime: "2026-04-18 14:30" },
+    { slug: "qual_hypercar", label: "Qualifying - HYPERCAR", datetime: "2026-04-18 15:10" },
+    { slug: "race", label: "Race", datetime: "2026-04-19 13:00" },
+  ],
+}
 
   {
     slug: "wec_spa_2026",
