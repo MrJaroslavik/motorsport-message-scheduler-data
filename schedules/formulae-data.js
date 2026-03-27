@@ -113,20 +113,20 @@ export const FORMULAE_WEEKENDS = [
   slug: "fe_london1_2026",
   name: "London I",
   sessions: [
-    { slug: "fp1", label: "Free Practice 1", datetime: "2026-08-14 18:00" },
-    { slug: "fp2", label: "Free Practice 2", datetime: "2026-08-15 10:30" },
-    { slug: "qualifying", label: "Qualifying", datetime: "2026-08-15 12:40" },
-    { slug: "race", label: "Race", datetime: "2026-08-15 17:05" },
+    { slug: "fp1", label: "Free Practice 1", datetime: "2026-08-14 17:00" },
+    { slug: "fp2", label: "Free Practice 2", datetime: "2026-08-15 09:30" },
+    { slug: "qualifying", label: "Qualifying", datetime: "2026-08-15 11:40" },
+    { slug: "race", label: "Race", datetime: "2026-08-15 16:05" },
   ],
 },
 
-  {
+{
   slug: "fe_london2_2026",
   name: "London II",
   sessions: [
-    { slug: "fp3", label: "Free Practice 3", datetime: "2026-08-16 10:30" },
-    { slug: "qualifying", label: "Qualifying", datetime: "2026-08-16 12:40" },
-    { slug: "race", label: "Race", datetime: "2026-08-16 17:05" },
+    { slug: "fp3", label: "Free Practice 3", datetime: "2026-08-16 09:30" },
+    { slug: "qualifying", label: "Qualifying", datetime: "2026-08-16 11:40" },
+    { slug: "race", label: "Race", datetime: "2026-08-16 16:05" },
   ],
-},
+}, 
 ];
