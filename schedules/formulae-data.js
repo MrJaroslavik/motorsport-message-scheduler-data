@@ -89,44 +89,45 @@ export const FORMULAE_WEEKENDS = [
   },
 
   {
-  slug: "fe_tokyo1_2026",
-  name: "Tokyo I",
-  sessions: [
-    { slug: "fp1", label: "Free Practice 1", datetime: "2026-07-24 05:00" },
-    { slug: "fp2", label: "Free Practice 2", datetime: "2026-07-24 23:30" },
-    { slug: "qualifying", label: "Qualifying", datetime: "2026-07-25 01:40" },
-    { slug: "race", label: "Race", datetime: "2026-07-25 06:05" },
-  ],
-},
+    slug: "fe_tokyo1_2026",
+    name: "Tokyo I",
+    sessions: [
+      { slug: "fp1", label: "Free Practice 1", datetime: "2026-07-24 12:00" },
+      { slug: "fp2", label: "Free Practice 2", datetime: "2026-07-25 06:30" },
+      { slug: "qualifying", label: "Qualifying", datetime: "2026-07-25 08:40" },
+      { slug: "race", label: "Race", datetime: "2026-07-25 13:05" },
+    ],
+  },
 
   {
-  slug: "fe_tokyo2_2026",
-  name: "Tokyo II",
-  sessions: [
-    { slug: "fp3", label: "Free Practice 3", datetime: "2026-07-25 23:30" },
-    { slug: "qualifying", label: "Qualifying", datetime: "2026-07-26 01:40" },
-    { slug: "race", label: "Race", datetime: "2026-07-26 06:05" },
-  ],
-},
+    slug: "fe_tokyo2_2026",
+    name: "Tokyo II",
+    sessions: [
+      { slug: "fp3", label: "Free Practice 3", datetime: "2026-07-26 06:30" },
+      { slug: "qualifying", label: "Qualifying", datetime: "2026-07-26 08:40" },
+      { slug: "race", label: "Race", datetime: "2026-07-26 13:05" },
+    ],
+  },
 
-{
-  slug: "fe_london1_2026",
-  name: "London I",
-  sessions: [
-    { slug: "fp1", label: "Free Practice 1", datetime: "2026-08-14 17:00" },
-    { slug: "fp2", label: "Free Practice 2", datetime: "2026-08-15 09:30" },
-    { slug: "qualifying", label: "Qualifying", datetime: "2026-08-15 11:40" },
-    { slug: "race", label: "Race", datetime: "2026-08-15 16:05" },
-  ],
-},
+  {
+    slug: "fe_london1_2026",
+    name: "London I",
+    sessions: [
+      { slug: "fp1", label: "Free Practice 1", datetime: "2026-08-14 17:00" },
+      { slug: "fp2", label: "Free Practice 2", datetime: "2026-08-15 09:30" },
+      { slug: "qualifying", label: "Qualifying", datetime: "2026-08-15 11:40" },
+      { slug: "race", label: "Race", datetime: "2026-08-15 16:05" },
+    ],
+  },
 
-{
-  slug: "fe_london2_2026",
-  name: "London II",
-  sessions: [
-    { slug: "fp3", label: "Free Practice 3", datetime: "2026-08-16 09:30" },
-    { slug: "qualifying", label: "Qualifying", datetime: "2026-08-16 11:40" },
-    { slug: "race", label: "Race", datetime: "2026-08-16 16:05" },
-  ],
-}, 
+  {
+    slug: "fe_london2_2026",
+    name: "London II",
+    sessions: [
+      { slug: "fp3", label: "Free Practice 3", datetime: "2026-08-16 09:30" },
+      { slug: "qualifying", label: "Qualifying", datetime: "2026-08-16 11:40" },
+      { slug: "race", label: "Race", datetime: "2026-08-16 16:05" },
+    ],
+  },
+
 ];
