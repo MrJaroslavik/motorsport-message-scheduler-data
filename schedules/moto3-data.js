@@ -1,10 +1,9 @@
 // schedules/moto3-data.js
-// Generated from official Moto3 2026 ICS
-// Timezone: Europe/Prague
+// Data-only soubor – žádná logika
 
 export const MOTO3_WEEKENDS = [
 
-  {
+   {
     slug: "moto3_spanish_2026",
     name: "Spanish",
     sessions: [
@@ -178,7 +177,7 @@ export const MOTO3_WEEKENDS = [
     sessions: [
       { slug: "fp1", label: "Free Practice 1", datetime: "2026-10-23 00:00" },
       { slug: "pr", label: "Practice", datetime: "2026-10-23 04:15" },
-      { slug: "fp2", label: "Free Practice 2", datetime: "2026-10-24 23:40" },
+      { slug: "fp2", label: "Free Practice 2", datetime: "2026-10-23 23:40" },
       { slug: "qualifying", label: "Qualifying", datetime: "2026-10-24 03:45" },
       { slug: "race", label: "Race", datetime: "2026-10-25 02:00" },
     ],
@@ -196,27 +195,27 @@ export const MOTO3_WEEKENDS = [
     ],
   },
 
-   {
-  slug: "moto3_qatar_2026",
-  name: "Qatar",
-  sessions: [
-    { slug: "fp1", label: "Free Practice 1", datetime: "2026-11-06 12:00" },
-    { slug: "pr", label: "Practice", datetime: "2026-11-06 16:15" },
-    { slug: "fp2", label: "Free Practice 2", datetime: "2026-11-07 11:30" },
-    { slug: "qualifying", label: "Qualifying", datetime: "2026-11-07 15:45" },
-    { slug: "race", label: "Race", datetime: "2026-11-08 15:00" },
-  ],
-},
+  {
+    slug: "moto3_qatar_2026",
+    name: "Qatar",
+    sessions: [
+      { slug: "fp1", label: "Free Practice 1", datetime: "2026-11-06 12:00" },
+      { slug: "pr", label: "Practice", datetime: "2026-11-06 16:15" },
+      { slug: "fp2", label: "Free Practice 2", datetime: "2026-11-07 11:30" },
+      { slug: "qualifying", label: "Qualifying", datetime: "2026-11-07 15:45" },
+      { slug: "race", label: "Race", datetime: "2026-11-08 15:00" },
+    ],
+  },
 
   {
     slug: "moto3_portuguese_2026",
     name: "Portuguese",
     sessions: [
-      { slug: "fp1", label: "Free Practice 1", datetime: "2026-11-13 10:00" },
-      { slug: "pr", label: "Practice", datetime: "2026-11-13 14:15" },
-      { slug: "fp2", label: "Free Practice 2", datetime: "2026-11-14 09:40" },
-      { slug: "qualifying", label: "Qualifying", datetime: "2026-11-14 13:45" },
-      { slug: "race", label: "Race", datetime: "2026-11-15 15:30" },
+      { slug: "fp1", label: "Free Practice 1", datetime: "2026-11-20 10:00" },
+      { slug: "pr", label: "Practice", datetime: "2026-11-20 14:15" },
+      { slug: "fp2", label: "Free Practice 2", datetime: "2026-11-21 09:40" },
+      { slug: "qualifying", label: "Qualifying", datetime: "2026-11-21 13:45" },
+      { slug: "race", label: "Race", datetime: "2026-11-22 15:30" },
     ],
   },
 
@@ -224,12 +223,12 @@ export const MOTO3_WEEKENDS = [
     slug: "moto3_valencia_2026",
     name: "Valencia",
     sessions: [
-      { slug: "fp1", label: "Free Practice 1", datetime: "2026-11-20 09:00" },
-      { slug: "pr", label: "Practice", datetime: "2026-11-20 13:15" },
-      { slug: "fp2", label: "Free Practice 2", datetime: "2026-11-21 08:40" },
-      { slug: "qualifying", label: "Qualifying", datetime: "2026-11-21 12:45" },
-      { slug: "race", label: "Race", datetime: "2026-11-22 11:00" },
+      { slug: "fp1", label: "Free Practice 1", datetime: "2026-11-27 09:00" },
+      { slug: "pr", label: "Practice", datetime: "2026-11-27 13:15" },
+      { slug: "fp2", label: "Free Practice 2", datetime: "2026-11-28 08:40" },
+      { slug: "qualifying", label: "Qualifying", datetime: "2026-11-28 12:45" },
+      { slug: "race", label: "Race", datetime: "2026-11-29 11:00" },
     ],
-  }
+  },
 
 ];
