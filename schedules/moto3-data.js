@@ -5,30 +5,6 @@
 export const MOTO3_WEEKENDS = [
 
   {
-    slug: "moto3_brasil_2026",
-    name: "Brasil",
-    sessions: [
-      { slug: "fp1", label: "Free Practice 1", datetime: "2026-03-20 13:00" },
-      { slug: "pr", label: "Practice", datetime: "2026-03-20 17:15" },
-      { slug: "fp2", label: "Free Practice 2", datetime: "2026-03-21 12:40" },
-      { slug: "qualifying", label: "Qualifying", datetime: "2026-03-21 16:45" },
-      { slug: "race", label: "Race", datetime: "2026-03-22 16:00" },
-    ],
-  },
-
-  {
-    slug: "moto3_americas_2026",
-    name: "Americas",
-    sessions: [
-      { slug: "fp1", label: "Free Practice 1", datetime: "2026-03-27 15:00" },
-      { slug: "pr", label: "Practice", datetime: "2026-03-27 19:15" },
-      { slug: "fp2", label: "Free Practice 2", datetime: "2026-03-28 14:40" },
-      { slug: "qualifying", label: "Qualifying", datetime: "2026-03-28 18:45" },
-      { slug: "race", label: "Race", datetime: "2026-03-29 18:00" },
-    ],
-  },
-
-  {
     slug: "moto3_spanish_2026",
     name: "Spanish",
     sessions: [
