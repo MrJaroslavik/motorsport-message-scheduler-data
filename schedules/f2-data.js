@@ -7,7 +7,7 @@ export const F2_WEEKENDS = [
     slug: "f2_monaco_2026",
     name: "Monaco",
     sessions: [
-      { slug: "fp", label: "Free Practice", datetime: "2026-06-05" },
+      { slug: "fp", label: "Free Practice", datetime: "2026-06-04" },
       { slug: "qualifying", label: "Qualifying", datetime: "2026-06-05" },
       { slug: "sprint", label: "Sprint Race", datetime: "2026-06-06" },
       { slug: "feature", label: "Feature Race", datetime: "2026-06-07" },
