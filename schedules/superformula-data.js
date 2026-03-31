@@ -3,8 +3,6 @@
 
 export const SUPERFORMULA_WEEKENDS = [
 
-
-
   // ===============================
   // Rd. 1–2 – Motegi
   // ===============================
@@ -12,13 +10,12 @@ export const SUPERFORMULA_WEEKENDS = [
     slug: "sf_motegi_2026",
     name: "Motegi",
     sessions: [
-      { slug: "fp", label: "Free Practice", datetime: "2026-04-03" },
-
-      { slug: "q1", label: "Qualifying 1", datetime: "2026-04-04" },
-      { slug: "race1", label: "Race 1", datetime: "2026-04-04" },
-
-      { slug: "q2", label: "Qualifying 2", datetime: "2026-04-05" },
-      { slug: "race2", label: "Race 2", datetime: "2026-04-05" },
+      { slug: "fp1", label: "Free Practice 1", datetime: "2026-04-03 03:10" },
+      { slug: "fp2", label: "Free Practice 2", datetime: "2026-04-03 07:30" },
+      { slug: "q1", label: "Qualifying 1", datetime: "2026-04-04 02:30" },
+      { slug: "race1", label: "Race 1", datetime: "2026-04-04 07:45" },
+      { slug: "q2", label: "Qualifying 2", datetime: "2026-04-05 03:10" },
+      { slug: "race2", label: "Race 2", datetime: "2026-04-05 07:45" },
     ],
   },
 
@@ -43,10 +40,8 @@ export const SUPERFORMULA_WEEKENDS = [
     name: "Suzuka",
     sessions: [
       { slug: "fp", label: "Free Practice", datetime: "2026-05-22" },
-
       { slug: "q1", label: "Qualifying 1", datetime: "2026-05-23" },
       { slug: "race1", label: "Race 1", datetime: "2026-05-23" },
-
       { slug: "q2", label: "Qualifying 2", datetime: "2026-05-24" },
       { slug: "race2", label: "Race 2", datetime: "2026-05-24" },
     ],
@@ -60,10 +55,8 @@ export const SUPERFORMULA_WEEKENDS = [
     name: "Fuji",
     sessions: [
       { slug: "fp", label: "Free Practice", datetime: "2026-07-17" },
-
       { slug: "q1", label: "Qualifying 1", datetime: "2026-07-18" },
       { slug: "race1", label: "Race 1", datetime: "2026-07-18" },
-
       { slug: "q2", label: "Qualifying 2", datetime: "2026-07-19" },
       { slug: "race2", label: "Race 2", datetime: "2026-07-19" },
     ],
@@ -90,10 +83,8 @@ export const SUPERFORMULA_WEEKENDS = [
     name: "Fuji",
     sessions: [
       { slug: "fp", label: "Free Practice", datetime: "2026-10-09" },
-
       { slug: "q1", label: "Qualifying 1", datetime: "2026-10-10" },
       { slug: "race1", label: "Race 1", datetime: "2026-10-10" },
-
       { slug: "q2", label: "Qualifying 2", datetime: "2026-10-11" },
       { slug: "race2", label: "Race 2", datetime: "2026-10-11" },
     ],
@@ -107,10 +98,8 @@ export const SUPERFORMULA_WEEKENDS = [
     name: "Suzuka",
     sessions: [
       { slug: "fp", label: "Free Practice", datetime: "2026-11-20" },
-
       { slug: "q1", label: "Qualifying 1", datetime: "2026-11-21" },
       { slug: "race1", label: "Race 1", datetime: "2026-11-21" },
-
       { slug: "q2", label: "Qualifying 2", datetime: "2026-11-22" },
       { slug: "race2", label: "Race 2", datetime: "2026-11-22" },
     ],
