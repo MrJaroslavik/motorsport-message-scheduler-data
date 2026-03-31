@@ -4,32 +4,6 @@
 export const MOTOGP_WEEKENDS = [
 
   {
-    slug: "motogp_brazil_2026",
-    name: "Brazil",
-    sessions: [
-      { slug: "fp1", label: "Free Practice 1", datetime: "2026-03-20 15:05" },
-      { slug: "practice", label: "Practice", datetime: "2026-03-20 19:20" },
-      { slug: "fp2", label: "Free Practice 2", datetime: "2026-03-21 14:10" },
-      { slug: "qualifying", label: "Qualifying", datetime: "2026-03-21 14:50" },
-      { slug: "sprint", label: "Sprint", datetime: "2026-03-21 19:00" },
-      { slug: "race", label: "Race", datetime: "2026-03-22 19:00" },
-    ],
-  },
-
-  {
-    slug: "motogp_americas_2026",
-    name: "Americas",
-    sessions: [
-      { slug: "fp1", label: "Free Practice 1", datetime: "2026-03-27 16:45" },
-      { slug: "practice", label: "Practice", datetime: "2026-03-27 21:00" },
-      { slug: "fp2", label: "Free Practice 2", datetime: "2026-03-28 16:10" },
-      { slug: "qualifying", label: "Qualifying", datetime: "2026-03-28 16:50" },
-      { slug: "sprint", label: "Sprint", datetime: "2026-03-28 21:00" },
-      { slug: "race", label: "Race", datetime: "2026-03-29 22:00" },
-    ],
-  },
-
-  {
     slug: "motogp_spanish_2026",
     name: "Spanish",
     sessions: [
