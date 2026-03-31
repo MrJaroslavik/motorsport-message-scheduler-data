@@ -3,17 +3,6 @@
 
 export const F1A_WEEKENDS = [
 
-  {
-    slug: "f1a_china_2026",
-    name: "Chinese",
-    sessions: [
-      { slug: "fp", label: "Free Practice", datetime: "2026-03-13 02:10" },
-      { slug: "qualifying", label: "Qualifying", datetime: "2026-03-13 07:05" },
-      { slug: "race1", label: "Race 1", datetime: "2026-03-14 06:45" },
-      { slug: "race2", label: "Race 2", datetime: "2026-03-15 03:40" },
-    ],
-  },
-
   // =================================================
   // Upcoming rounds – bez času
   // =================================================
