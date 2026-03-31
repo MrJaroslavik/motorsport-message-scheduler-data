@@ -1,5 +1,5 @@
-
 // schedules/britishf4-data.js
+// Data-only soubor – žádná logika
 
 export const BRITISHF4_WEEKENDS = [
 
@@ -51,10 +51,10 @@ sessions: [
 slug: "britishf4_zandvoort_2026",
 name: "Zandvoort",
 sessions: [
-{ slug: "qualifying", label: "Qualifying", datetime: "2026-07-11" },
-{ slug: "race1", label: "Race 1", datetime: "2026-07-11" },
-{ slug: "race2", label: "Race 2", datetime: "2026-07-12" },
-{ slug: "race3", label: "Race 3", datetime: "2026-07-12" },
+{ slug: "qualifying", label: "Qualifying", datetime: "2026-07-11 10:00" },
+{ slug: "race1", label: "Race 1", datetime: "2026-07-11 14:15" },
+{ slug: "race2", label: "Race 2", datetime: "2026-07-12 09:40" },
+{ slug: "race3", label: "Race 3", datetime: "2026-07-12 13:50" },
 ],
 },
 
@@ -73,10 +73,10 @@ sessions: [
 slug: "britishf4_donington_gp_2026",
 name: "Donington Park GP",
 sessions: [
-{ slug: "qualifying", label: "Qualifying", datetime: "2026-08-22" },
-{ slug: "race1", label: "Race 1", datetime: "2026-08-22" },
-{ slug: "race2", label: "Race 2", datetime: "2026-08-23" },
-{ slug: "race3", label: "Race 3", datetime: "2026-08-23" },
+{ slug: "qualifying", label: "Qualifying", datetime: "2026-08-22 10:40" },
+{ slug: "race1", label: "Race 1", datetime: "2026-08-22 16:35" },
+{ slug: "race2", label: "Race 2", datetime: "2026-08-23 11:20" },
+{ slug: "race3", label: "Race 3", datetime: "2026-08-23 16:25" },
 ],
 },
 
@@ -106,10 +106,10 @@ sessions: [
 slug: "britishf4_brands_hatch_gp_2026",
 name: "Brands Hatch GP",
 sessions: [
-{ slug: "qualifying", label: "Qualifying", datetime: "2026-10-10" },
-{ slug: "race1", label: "Race 1", datetime: "2026-10-10" },
-{ slug: "race2", label: "Race 2", datetime: "2026-10-11" },
-{ slug: "race3", label: "Race 3", datetime: "2026-10-11" },
+{ slug: "qualifying", label: "Qualifying", datetime: "2026-10-10 12:15" },
+{ slug: "race1", label: "Race 1", datetime: "2026-10-10 17:00" },
+{ slug: "race2", label: "Race 2", datetime: "2026-10-11 11:00" },
+{ slug: "race3", label: "Race 3", datetime: "2026-10-11 16:15" },
 ],
 },
 
