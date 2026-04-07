@@ -4,16 +4,16 @@
 export const F4CEZ_WEEKENDS = [
 
 {
-slug: "f4cez_redbullring_2026",
-name: "Red Bull Ring",
-sessions: [
-{ slug: "qualifying", label: "Qualifying", datetime: "2026-04-10" },
-{ slug: "race1", label: "Race 1", datetime: "2026-04-11" },
-{ slug: "race2", label: "Race 2", datetime: "2026-04-12" },
-{ slug: "race3", label: "Race 3", datetime: "2026-04-12" },
-],
-},
-
+    slug: "f4cez_redbullring_2026",
+    name: "Red Bull Ring",
+    sessions: [
+      { slug: "qualifying", label: "Qualifying", datetime: "2026-04-10" },
+      { slug: "race1", label: "Race 1", datetime: "2026-04-11" },
+      { slug: "race2", label: "Race 2", datetime: "2026-04-12" },
+      { slug: "race3", label: "Race 3", datetime: "2026-04-12" },
+    ],
+  },
+  
 {
 slug: "f4cez_salzburgring_2026",
 name: "Salzburgring",
