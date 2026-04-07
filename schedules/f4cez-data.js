@@ -2,15 +2,18 @@
 // Data-only soubor – žádná logika
 
 export const F4CEZ_WEEKENDS = [
-
-{
+  {
     slug: "f4cez_redbullring_2026",
     name: "Red Bull Ring",
     sessions: [
-      { slug: "qualifying", label: "Qualifying", datetime: "2026-04-10" },
-      { slug: "race1", label: "Race 1", datetime: "2026-04-11" },
-      { slug: "race2", label: "Race 2", datetime: "2026-04-12" },
-      { slug: "race3", label: "Race 3", datetime: "2026-04-12" },
+      // Sobota 11. dubna
+      { slug: "qualifying_heat1", label: "Qualifying Heat 1", datetime: "2026-04-11 10:40" },
+      { slug: "qualifying_heat2", label: "Qualifying Heat 2", datetime: "2026-04-11 11:05" },
+      { slug: "race1", label: "Race 1 (Group A+B)", datetime: "2026-04-11 14:40" },
+      // Neděle 12. dubna
+      { slug: "race2", label: "Race 2 (Group B+C)", datetime: "2026-04-12 08:45" },
+      { slug: "race3", label: "Race 3 (Group A+C)", datetime: "2026-04-12 13:20" },
+      { slug: "race4", label: "Race 4", datetime: "2026-04-12 16:15" },
     ],
   },
   
