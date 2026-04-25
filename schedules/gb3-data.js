@@ -7,13 +7,12 @@ export const GB3_WEEKENDS = [
 slug: "gb3_silverstone_april_2026",
 name: "Silverstone GP",
 sessions: [
-{ slug: "qualifying", label: "Qualifying", datetime: "2026-04-25" },
-{ slug: "race1", label: "Race 1", datetime: "2026-04-25" },
-{ slug: "race2", label: "Race 2", datetime: "2026-04-26" },
-{ slug: "race3", label: "Race 3", datetime: "2026-04-26" },
+{ slug: "qualifying", label: "Qualifying", datetime: "2026-04-25 11:40" },
+{ slug: "race1", label: "Race 1", datetime: "2026-04-25 16:10" },
+{ slug: "race2", label: "Race 2", datetime: "2026-04-26 12:16" },
+{ slug: "race3", label: "Race 3", datetime: "2026-04-26 18:25" },
 ],
 },
-
 {
 slug: "gb3_spa_2026",
 name: "Spa-Francorchamps GP",
