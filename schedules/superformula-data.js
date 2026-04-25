@@ -22,13 +22,14 @@ export const SUPERFORMULA_WEEKENDS = [
   // ===============================
   // Rd. 3 – Autopolis
   // ===============================
-  {
+ {
     slug: "sf_autopolis_2026",
     name: "Autopolis",
     sessions: [
-      { slug: "fp", label: "Free Practice", datetime: "2026-04-25" },
-      { slug: "qualifying", label: "Qualifying", datetime: "2026-04-26" },
-      { slug: "race", label: "Race", datetime: "2026-04-26" },
+      { slug: "fp1", label: "Free Practice", datetime: "2026-04-25 02:15" },
+      { slug: "qualifying", label: "Qualifying", datetime: "2026-04-25 07:15" },
+      { slug: "fp2", label: "Free Practice 2", datetime: "2026-04-26 02:40" },
+      { slug: "race", label: "Race", datetime: "2026-04-26 07:30" },
     ],
   },
 
