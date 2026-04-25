@@ -4,14 +4,15 @@
 export const FREC_WEEKENDS = [
 
 {
-slug: "frec_spielberg_2026",
-name: "Spielberg",
-sessions: [
-{ slug: "qualifying1", label: "Qualifying 1", datetime: "2026-04-25" },
-{ slug: "race1", label: "Race 1", datetime: "2026-04-25 12:55" },
-{ slug: "qualifying2", label: "Qualifying 2", datetime: "2026-04-26" },
-{ slug: "race2", label: "Race 2", datetime: "2026-04-26 15:05" },
-],
+    slug: "frec_spielberg_2026",
+    name: "Spielberg",
+    sessions: [
+      { slug: "qualifying", label: "Qualifying 1", datetime: "2026-04-24 17:20" },
+      { slug: "race1", label: "Race", datetime: "2026-04-25 10:25" },
+      { slug: "race2", label: "Race 2", datetime: "2026-04-25 16:40" },
+      { slug: "qualifying2", label: "Qualifying 2", datetime: "2026-04-26 08:45" },
+      { slug: "race3", label: "Race 3", datetime: "2026-04-26 12:55" },
+    ],
 },
 
 {
