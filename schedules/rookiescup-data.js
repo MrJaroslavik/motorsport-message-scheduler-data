@@ -3,15 +3,13 @@
 
 export const ROOKIESCUP_WEEKENDS = [
 
-  {
+ {
     slug: "rc_jerez_2026",
     name: "Jerez",
     sessions: [
-      { slug: "fp1", label: "Free Practice 1", datetime: "2026-04-24" },
-      { slug: "fp2", label: "Free Practice 2", datetime: "2026-04-24" },
       { slug: "qualifying", label: "Qualifying", datetime: "2026-04-24" },
-      { slug: "race1", label: "Race 1", datetime: "2026-04-25" },
-      { slug: "race2", label: "Race 2", datetime: "2026-04-26" },
+      { slug: "race1", label: "Race", datetime: "2026-04-25 16:00" },
+      { slug: "race2", label: "Race 2", datetime: "2026-04-26 08:35" },
     ],
   },
 
