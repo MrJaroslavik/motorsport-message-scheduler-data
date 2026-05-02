@@ -21,10 +21,13 @@ export const LEMANSCUP_WEEKENDS = [
     slug: "lmc_paul_ricard_2026",
     name: "Circuit Paul Ricard",
     sessions: [
-      { slug: "fp1", label: "Free Practice 1", datetime: "2026-05-01" },
-      { slug: "fp2", label: "Free Practice 2", datetime: "2026-05-01" },
-      { slug: "qualifying", label: "Qualifying", datetime: "2026-05-02" },
-      { slug: "race", label: "Race", datetime: "2026-05-02" },
+      { slug: "fp1", label: "Free Practice 1", datetime: "2026-05-01 09:50" },
+      { slug: "bronze", label: "Bronze Driver Collective Test", datetime: "2026-05-01 15:40" },
+      { slug: "fp2", label: "Free Practice 2", datetime: "2026-05-01 18:40" },
+      { slug: "qualifying-gt3", label: "Qualifying - GT3", datetime: "2026-05-02 11:50" },
+      { slug: "qualifying-lmp3-proam", label: "Qualifying - LMP3 PRO/AM", datetime: "2026-05-02 12:10" },
+      { slug: "qualifying-lmp3", label: "Qualifying - LMP3", datetime: "2026-05-02 12:30" },
+      { slug: "race", label: "Race", datetime: "2026-05-02 18:20" },
     ],
   },
 
