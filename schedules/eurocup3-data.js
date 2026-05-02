@@ -4,15 +4,17 @@
 export const EUROCUP3_WEEKENDS = [
 
 {
-slug: "ec3_paul_ricard_2026",
-name: "Paul Ricard",
-sessions: [
-{ slug: "fp", label: "Free Practice", datetime: "2026-05-01" },
-{ slug: "qualifying1", label: "Qualifying 1", datetime: "2026-05-02" },
-{ slug: "race1", label: "Race 1", datetime: "2026-05-02" },
-{ slug: "qualifying2", label: "Qualifying 2", datetime: "2026-05-03" },
-{ slug: "race2", label: "Race 2", datetime: "2026-05-03" },
-],
+  slug: "ec3_paul_ricard_2026",
+  name: "Paul Ricard",
+  sessions: [
+    { slug: "test1", label: "Official Test 1", datetime: "2026-05-01 11:00" },
+    { slug: "test2", label: "Official Test 2", datetime: "2026-05-01 14:50" },
+    { slug: "qualifying1", label: "Qualifying 1", datetime: "2026-05-01 17:00" },
+    { slug: "qualifying2", label: "Qualifying 2", datetime: "2026-05-01 17:25" },
+    { slug: "race1", label: "Race 1", datetime: "2026-05-02 13:05" },
+    { slug: "sprint1", label: "Sprint 1", datetime: "2026-05-02 16:50" },
+    { slug: "race2", label: "Race 2", datetime: "2026-05-03 09:00" },
+  ],
 },
 
 {
