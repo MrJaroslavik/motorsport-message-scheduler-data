@@ -13,15 +13,12 @@ export const ROOKIESCUP_WEEKENDS = [
     ],
   },
 
-  {
+{
     slug: "rc_lemans_2026",
     name: "Le Mans",
     sessions: [
-      { slug: "fp1", label: "Free Practice 1", datetime: "2026-05-08" },
-      { slug: "fp2", label: "Free Practice 2", datetime: "2026-05-08" },
-      { slug: "qualifying", label: "Qualifying", datetime: "2026-05-08" },
-      { slug: "race1", label: "Race 1", datetime: "2026-05-09" },
-      { slug: "race2", label: "Race 2", datetime: "2026-05-10" },
+      { slug: "race3", label: "Race 3", datetime: "2026-05-09 16:05" },
+      { slug: "race4", label: "Race 4", datetime: "2026-05-10 08:35" },
     ],
   },
 
