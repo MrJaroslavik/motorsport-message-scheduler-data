@@ -2,7 +2,16 @@
 // Data-only soubor – žádná logika
 
 export const F2_WEEKENDS = [
-
+{
+  slug: "f2_miami_2026",
+  name: "Miami",
+  sessions: [
+    { slug: "practice", label: "Free Practice", datetime: "2026-05-01 15:30" },
+    { slug: "qualifying", label: "Qualifying", datetime: "2026-05-01 20:30" },
+    { slug: "sprint", label: "Sprint Race", datetime: "2026-05-02 16:00" },
+    { slug: "feature", label: "Feature Race", datetime: "2026-05-03 18:30" },
+  ],
+},
   {
     slug: "f2_monaco_2026",
     name: "Monaco",
