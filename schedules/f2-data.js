@@ -9,7 +9,7 @@ export const F2_WEEKENDS = [
     { slug: "practice", label: "Free Practice", datetime: "2026-05-01 15:30" },
     { slug: "qualifying", label: "Qualifying", datetime: "2026-05-01 20:30" },
     { slug: "sprint", label: "Sprint Race", datetime: "2026-05-02 16:00" },
-    { slug: "feature", label: "Feature Race", datetime: "2026-05-03 18:30" },
+    { slug: "feature", label: "Feature Race", datetime: "2026-05-03 15:25" },
   ],
 },
   {
