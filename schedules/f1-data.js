@@ -34,7 +34,7 @@ export const F1_WEEKENDS = [
       { slug: "sprint_qualifying", label: "Sprint Qualifying", datetime: "2026-05-01 22:30" },
       { slug: "sprint", label: "Sprint", datetime: "2026-05-02 18:00" },
       { slug: "qualifying", label: "Qualifying", datetime: "2026-05-02 22:00" },
-      { slug: "race", label: "Race", datetime: "2026-05-03 22:00" },
+      { slug: "race", label: "Race", datetime: "2026-05-03 19:00" },
     ],
   },
 
