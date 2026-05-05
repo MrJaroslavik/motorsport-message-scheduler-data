@@ -1,11 +1,8 @@
-// schedules/moto2-data.js
-// Data-only soubor – žádná logika
-
 export const MOTO2_WEEKENDS = [
-
   {
     slug: "moto2_spanish_2026",
     name: "Spanish",
+    link: "https://ecal.ai/f/RpcMj/3rT3M",
     sessions: [
       { slug: "fp1", label: "Free Practice 1", datetime: "2026-04-24 09:50" },
       { slug: "pr", label: "Practice", datetime: "2026-04-24 14:05" },
@@ -14,10 +11,10 @@ export const MOTO2_WEEKENDS = [
       { slug: "race", label: "Race", datetime: "2026-04-26 12:15" },
     ],
   },
-
   {
     slug: "moto2_french_2026",
     name: "French",
+    link: "https://ecal.ai/f/Rpf1d/3rT3M",
     sessions: [
       { slug: "fp1", label: "Free Practice 1", datetime: "2026-05-08 09:50" },
       { slug: "pr", label: "Practice", datetime: "2026-05-08 14:05" },
@@ -26,10 +23,10 @@ export const MOTO2_WEEKENDS = [
       { slug: "race", label: "Race", datetime: "2026-05-10 12:15" },
     ],
   },
-
   {
     slug: "moto2_catalan_2026",
     name: "Catalan",
+    link: "https://ecal.ai/f/Rq2m7/3rT3M",
     sessions: [
       { slug: "fp1", label: "Free Practice 1", datetime: "2026-05-15 09:50" },
       { slug: "pr", label: "Practice", datetime: "2026-05-15 14:05" },
@@ -38,10 +35,10 @@ export const MOTO2_WEEKENDS = [
       { slug: "race", label: "Race", datetime: "2026-05-17 12:15" },
     ],
   },
-
   {
     slug: "moto2_italian_2026",
     name: "Italian",
+    link: "https://ecal.ai/f/RpX7n/3rT3M",
     sessions: [
       { slug: "fp1", label: "Free Practice 1", datetime: "2026-05-29 09:50" },
       { slug: "pr", label: "Practice", datetime: "2026-05-29 14:05" },
@@ -50,10 +47,10 @@ export const MOTO2_WEEKENDS = [
       { slug: "race", label: "Race", datetime: "2026-05-31 12:15" },
     ],
   },
-
   {
     slug: "moto2_hungarian_2026",
     name: "Hungarian",
+    link: "https://ecal.ai/f/Rq1wQ/3rT3M",
     sessions: [
       { slug: "fp1", label: "Free Practice 1", datetime: "2026-06-05 09:50" },
       { slug: "pr", label: "Practice", datetime: "2026-06-05 14:05" },
@@ -62,10 +59,10 @@ export const MOTO2_WEEKENDS = [
       { slug: "race", label: "Race", datetime: "2026-06-07 12:15" },
     ],
   },
-
   {
     slug: "moto2_czech_2026",
     name: "Czech",
+    link: "https://ecal.ai/f/RpYRK/3rT3M",
     sessions: [
       { slug: "fp1", label: "Free Practice 1", datetime: "2026-06-19 09:50" },
       { slug: "pr", label: "Practice", datetime: "2026-06-19 14:05" },
@@ -74,10 +71,10 @@ export const MOTO2_WEEKENDS = [
       { slug: "race", label: "Race", datetime: "2026-06-21 12:15" },
     ],
   },
-
   {
     slug: "moto2_dutch_2026",
     name: "Dutch",
+    link: "https://ecal.ai/f/RpXvC/3rT3M",
     sessions: [
       { slug: "fp1", label: "Free Practice 1", datetime: "2026-06-26 09:50" },
       { slug: "pr", label: "Practice", datetime: "2026-06-26 14:05" },
@@ -86,10 +83,10 @@ export const MOTO2_WEEKENDS = [
       { slug: "race", label: "Race", datetime: "2026-06-28 12:15" },
     ],
   },
-
   {
     slug: "moto2_german_2026",
     name: "German",
+    link: "https://ecal.ai/f/RpYgP/3rT3M",
     sessions: [
       { slug: "fp1", label: "Free Practice 1", datetime: "2026-07-10 09:50" },
       { slug: "pr", label: "Practice", datetime: "2026-07-10 14:05" },
@@ -98,10 +95,10 @@ export const MOTO2_WEEKENDS = [
       { slug: "race", label: "Race", datetime: "2026-07-12 12:15" },
     ],
   },
-
   {
     slug: "moto2_british_2026",
     name: "British",
+    link: "https://ecal.ai/f/RpgkN/3rT3M",
     sessions: [
       { slug: "fp1", label: "Free Practice 1", datetime: "2026-08-07 11:50" },
       { slug: "pr", label: "Practice", datetime: "2026-08-07 16:05" },
@@ -110,10 +107,10 @@ export const MOTO2_WEEKENDS = [
       { slug: "race", label: "Race", datetime: "2026-08-09 12:15" },
     ],
   },
-
   {
     slug: "moto2_aragon_2026",
     name: "Aragon",
+    link: "https://ecal.ai/f/RpW6K/3rT3M",
     sessions: [
       { slug: "fp1", label: "Free Practice 1", datetime: "2026-08-28 09:50" },
       { slug: "pr", label: "Practice", datetime: "2026-08-28 14:05" },
@@ -122,10 +119,10 @@ export const MOTO2_WEEKENDS = [
       { slug: "race", label: "Race", datetime: "2026-08-30 12:15" },
     ],
   },
-
   {
     slug: "moto2_san_marino_2026",
     name: "San Marino",
+    link: "https://ecal.ai/f/Rq3Pp/3rT3M",
     sessions: [
       { slug: "fp1", label: "Free Practice 1", datetime: "2026-09-11 09:50" },
       { slug: "pr", label: "Practice", datetime: "2026-09-11 14:05" },
@@ -134,10 +131,10 @@ export const MOTO2_WEEKENDS = [
       { slug: "race", label: "Race", datetime: "2026-09-13 12:15" },
     ],
   },
-
   {
     slug: "moto2_austrian_2026",
     name: "Austrian",
+    link: "https://ecal.ai/f/Rq1np/3rT3M",
     sessions: [
       { slug: "fp1", label: "Free Practice 1", datetime: "2026-09-18 09:50" },
       { slug: "pr", label: "Practice", datetime: "2026-09-18 14:05" },
@@ -146,10 +143,10 @@ export const MOTO2_WEEKENDS = [
       { slug: "race", label: "Race", datetime: "2026-09-20 12:15" },
     ],
   },
-
   {
     slug: "moto2_japanese_2026",
     name: "Japanese",
+    link: "https://ecal.ai/f/Rq44n/3rT3M",
     sessions: [
       { slug: "fp1", label: "Free Practice 1", datetime: "2026-10-02 02:50" },
       { slug: "pr", label: "Practice", datetime: "2026-10-02 07:05" },
@@ -158,10 +155,10 @@ export const MOTO2_WEEKENDS = [
       { slug: "race", label: "Race", datetime: "2026-10-04 05:15" },
     ],
   },
-
   {
     slug: "moto2_indonesian_2026",
     name: "Indonesian",
+    link: "https://ecal.ai/f/Rq4DX/3rT3M",
     sessions: [
       { slug: "fp1", label: "Free Practice 1", datetime: "2026-10-09 03:50" },
       { slug: "pr", label: "Practice", datetime: "2026-10-09 08:05" },
@@ -170,10 +167,10 @@ export const MOTO2_WEEKENDS = [
       { slug: "race", label: "Race", datetime: "2026-10-11 06:15" },
     ],
   },
-
   {
     slug: "moto2_australian_2026",
     name: "Australian",
+    link: "https://ecal.ai/f/Rq5Sw/3rT3M",
     sessions: [
       { slug: "fp1", label: "Free Practice 1", datetime: "2026-10-23 00:50" },
       { slug: "pr", label: "Practice", datetime: "2026-10-23 05:05" },
@@ -182,10 +179,10 @@ export const MOTO2_WEEKENDS = [
       { slug: "race", label: "Race", datetime: "2026-10-25 02:15" },
     ],
   },
-
   {
     slug: "moto2_malaysian_2026",
     name: "Malaysian",
+    link: "https://ecal.ai/f/Rq5Z4/3rT3M",
     sessions: [
       { slug: "fp1", label: "Free Practice 1", datetime: "2026-10-30 02:50" },
       { slug: "pr", label: "Practice", datetime: "2026-10-30 07:05" },
@@ -194,10 +191,10 @@ export const MOTO2_WEEKENDS = [
       { slug: "race", label: "Race", datetime: "2026-11-01 06:15" },
     ],
   },
-
   {
     slug: "moto2_qatar_2026",
     name: "Qatar",
+    link: "https://ecal.ai/f/Rp9wZ/3rT3M",
     sessions: [
       { slug: "fp1", label: "Free Practice 1", datetime: "2026-11-06 12:50" },
       { slug: "pr", label: "Practice", datetime: "2026-11-06 17:05" },
@@ -206,10 +203,10 @@ export const MOTO2_WEEKENDS = [
       { slug: "race", label: "Race", datetime: "2026-11-08 16:15" },
     ],
   },
-
   {
     slug: "moto2_portuguese_2026",
     name: "Portuguese",
+    link: "https://ecal.ai/f/Rq6J7/3rT3M",
     sessions: [
       { slug: "fp1", label: "Free Practice 1", datetime: "2026-11-20 10:50" },
       { slug: "pr", label: "Practice", datetime: "2026-11-20 15:05" },
@@ -218,10 +215,10 @@ export const MOTO2_WEEKENDS = [
       { slug: "race", label: "Race", datetime: "2026-11-22 12:15" },
     ],
   },
-
   {
     slug: "moto2_valencia_2026",
     name: "Valencia",
+    link: "https://ecal.ai/f/Rq7Bh/3rT3M",
     sessions: [
       { slug: "fp1", label: "Free Practice 1", datetime: "2026-11-27 09:50" },
       { slug: "pr", label: "Practice", datetime: "2026-11-27 14:05" },
@@ -230,5 +227,4 @@ export const MOTO2_WEEKENDS = [
       { slug: "race", label: "Race", datetime: "2026-11-29 12:15" },
     ],
   },
-
 ];
