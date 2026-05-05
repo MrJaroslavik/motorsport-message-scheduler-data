@@ -3,35 +3,6 @@
 
 export const SUPERFORMULA_WEEKENDS = [
 
-  // ===============================
-  // Rd. 1–2 – Motegi
-  // ===============================
-  {
-    slug: "sf_motegi_2026",
-    name: "Motegi",
-    sessions: [
-      { slug: "fp1", label: "Free Practice 1", datetime: "2026-04-03 03:10" },
-      { slug: "fp2", label: "Free Practice 2", datetime: "2026-04-03 07:30" },
-      { slug: "q1", label: "Qualifying 1", datetime: "2026-04-04 02:30" },
-      { slug: "race1", label: "Race 1", datetime: "2026-04-04 07:45" },
-      { slug: "q2", label: "Qualifying 2", datetime: "2026-04-05 03:10" },
-      { slug: "race2", label: "Race 2", datetime: "2026-04-05 07:45" },
-    ],
-  },
-
-  // ===============================
-  // Rd. 3 – Autopolis
-  // ===============================
- {
-    slug: "sf_autopolis_2026",
-    name: "Autopolis",
-    sessions: [
-      { slug: "fp1", label: "Free Practice", datetime: "2026-04-25 02:15" },
-      { slug: "qualifying", label: "Qualifying", datetime: "2026-04-25 07:15" },
-      { slug: "fp2", label: "Free Practice 2", datetime: "2026-04-26 02:40" },
-      { slug: "race", label: "Race", datetime: "2026-04-26 07:30" },
-    ],
-  },
 
   // ===============================
   // Rd. 4–5 – Suzuka
@@ -39,6 +10,7 @@ export const SUPERFORMULA_WEEKENDS = [
   {
     slug: "sf_suzuka_may_2026",
     name: "Suzuka",
+    link: "https://superformula.net/sf3/race/24422/",
     sessions: [
       { slug: "fp", label: "Free Practice", datetime: "2026-05-22" },
       { slug: "q1", label: "Qualifying 1", datetime: "2026-05-23" },
@@ -54,6 +26,7 @@ export const SUPERFORMULA_WEEKENDS = [
   {
     slug: "sf_fuji_july_2026",
     name: "Fuji",
+    link: "https://superformula.net",
     sessions: [
       { slug: "fp", label: "Free Practice", datetime: "2026-07-17" },
       { slug: "q1", label: "Qualifying 1", datetime: "2026-07-18" },
@@ -69,9 +42,10 @@ export const SUPERFORMULA_WEEKENDS = [
   {
     slug: "sf_sugo_2026",
     name: "Sportsland Sugo",
+    link: "https://superformula.net",
     sessions: [
-      { slug: "fp", label: "Free Practice", datetime: "2026-08-08" },
-      { slug: "qualifying", label: "Qualifying", datetime: "2026-08-09" },
+      { slug: "fp", label: "Free Practice", datetime: "2026-08-07" },
+      { slug: "qualifying", label: "Qualifying", datetime: "2026-08-08" },
       { slug: "race", label: "Race", datetime: "2026-08-09" },
     ],
   },
@@ -82,6 +56,7 @@ export const SUPERFORMULA_WEEKENDS = [
   {
     slug: "sf_fuji_october_2026",
     name: "Fuji",
+    link: "https://superformula.net",
     sessions: [
       { slug: "fp", label: "Free Practice", datetime: "2026-10-09" },
       { slug: "q1", label: "Qualifying 1", datetime: "2026-10-10" },
@@ -97,6 +72,7 @@ export const SUPERFORMULA_WEEKENDS = [
   {
     slug: "sf_suzuka_final_2026",
     name: "Suzuka",
+    link: "https://superformula.net",
     sessions: [
       { slug: "fp", label: "Free Practice", datetime: "2026-11-20" },
       { slug: "q1", label: "Qualifying 1", datetime: "2026-11-21" },
