@@ -1,11 +1,8 @@
-// schedules/motogp-data.js
-// Data-only soubor – žádná logika
-
 export const MOTOGP_WEEKENDS = [
-
   {
     slug: "motogp_spanish_2026",
     name: "Spanish",
+    link: "https://ecal.ai/f/RpcMj/3rT3M",
     sessions: [
       { slug: "fp1", label: "Free Practice 1", datetime: "2026-04-24 10:45" },
       { slug: "practice", label: "Practice", datetime: "2026-04-24 15:00" },
@@ -15,10 +12,10 @@ export const MOTOGP_WEEKENDS = [
       { slug: "race", label: "Race", datetime: "2026-04-26 14:00" },
     ],
   },
-
   {
     slug: "motogp_french_2026",
     name: "French",
+    link: "https://ecal.ai/f/Rpf1d/3rT3M",
     sessions: [
       { slug: "fp1", label: "Free Practice 1", datetime: "2026-05-08 10:45" },
       { slug: "practice", label: "Practice", datetime: "2026-05-08 15:00" },
@@ -28,10 +25,10 @@ export const MOTOGP_WEEKENDS = [
       { slug: "race", label: "Race", datetime: "2026-05-10 14:00" },
     ],
   },
-
   {
     slug: "motogp_catalan_2026",
     name: "Catalan",
+    link: "https://ecal.ai/f/Rq2m7/3rT3M",
     sessions: [
       { slug: "fp1", label: "Free Practice 1", datetime: "2026-05-15 10:45" },
       { slug: "practice", label: "Practice", datetime: "2026-05-15 15:00" },
@@ -41,10 +38,10 @@ export const MOTOGP_WEEKENDS = [
       { slug: "race", label: "Race", datetime: "2026-05-17 14:00" },
     ],
   },
-
   {
     slug: "motogp_italian_2026",
     name: "Italian",
+    link: "https://ecal.ai/f/RpX7n/3rT3M",
     sessions: [
       { slug: "fp1", label: "Free Practice 1", datetime: "2026-05-29 10:45" },
       { slug: "practice", label: "Practice", datetime: "2026-05-29 15:00" },
@@ -54,10 +51,10 @@ export const MOTOGP_WEEKENDS = [
       { slug: "race", label: "Race", datetime: "2026-05-31 14:00" },
     ],
   },
-
   {
     slug: "motogp_hungarian_2026",
     name: "Hungarian",
+    link: "https://ecal.ai/f/Rq1wQ/3rT3M",
     sessions: [
       { slug: "fp1", label: "Free Practice 1", datetime: "2026-06-05 10:45" },
       { slug: "practice", label: "Practice", datetime: "2026-06-05 15:00" },
@@ -67,10 +64,10 @@ export const MOTOGP_WEEKENDS = [
       { slug: "race", label: "Race", datetime: "2026-06-07 14:00" },
     ],
   },
-
   {
     slug: "motogp_czech_2026",
     name: "Czech",
+    link: "https://ecal.ai/f/RpYRK/3rT3M",
     sessions: [
       { slug: "fp1", label: "Free Practice 1", datetime: "2026-06-19 10:45" },
       { slug: "practice", label: "Practice", datetime: "2026-06-19 15:00" },
@@ -80,10 +77,10 @@ export const MOTOGP_WEEKENDS = [
       { slug: "race", label: "Race", datetime: "2026-06-21 14:00" },
     ],
   },
-
   {
     slug: "motogp_dutch_2026",
     name: "Dutch",
+    link: "https://ecal.ai/f/RpXvC/3rT3M",
     sessions: [
       { slug: "fp1", label: "Free Practice 1", datetime: "2026-06-26 10:45" },
       { slug: "practice", label: "Practice", datetime: "2026-06-26 15:00" },
@@ -93,10 +90,10 @@ export const MOTOGP_WEEKENDS = [
       { slug: "race", label: "Race", datetime: "2026-06-28 14:00" },
     ],
   },
-
   {
     slug: "motogp_german_2026",
     name: "German",
+    link: "https://ecal.ai/f/RpYgP/3rT3M",
     sessions: [
       { slug: "fp1", label: "Free Practice 1", datetime: "2026-07-10 10:45" },
       { slug: "practice", label: "Practice", datetime: "2026-07-10 15:00" },
@@ -106,10 +103,10 @@ export const MOTOGP_WEEKENDS = [
       { slug: "race", label: "Race", datetime: "2026-07-12 14:00" },
     ],
   },
-
   {
     slug: "motogp_british_2026",
     name: "British",
+    link: "https://ecal.ai/f/RpgkN/3rT3M",
     sessions: [
       { slug: "fp1", label: "Free Practice 1", datetime: "2026-08-07 12:45" },
       { slug: "practice", label: "Practice", datetime: "2026-08-07 17:00" },
@@ -119,10 +116,10 @@ export const MOTOGP_WEEKENDS = [
       { slug: "race", label: "Race", datetime: "2026-08-09 14:00" },
     ],
   },
-
   {
     slug: "motogp_aragon_2026",
     name: "Aragon",
+    link: "https://ecal.ai/f/RpW6K/3rT3M",
     sessions: [
       { slug: "fp1", label: "Free Practice 1", datetime: "2026-08-28 10:45" },
       { slug: "practice", label: "Practice", datetime: "2026-08-28 15:00" },
@@ -132,10 +129,10 @@ export const MOTOGP_WEEKENDS = [
       { slug: "race", label: "Race", datetime: "2026-08-30 14:00" },
     ],
   },
-
   {
     slug: "motogp_san_marino_2026",
     name: "San Marino",
+    link: "https://ecal.ai/f/Rq3Pp/3rT3M",
     sessions: [
       { slug: "fp1", label: "Free Practice 1", datetime: "2026-09-11 10:45" },
       { slug: "practice", label: "Practice", datetime: "2026-09-11 15:00" },
@@ -145,10 +142,10 @@ export const MOTOGP_WEEKENDS = [
       { slug: "race", label: "Race", datetime: "2026-09-13 14:00" },
     ],
   },
-
   {
     slug: "motogp_austrian_2026",
     name: "Austrian",
+    link: "https://ecal.ai/f/Rq1np/3rT3M",
     sessions: [
       { slug: "fp1", label: "Free Practice 1", datetime: "2026-09-18 10:45" },
       { slug: "practice", label: "Practice", datetime: "2026-09-18 15:00" },
@@ -158,10 +155,10 @@ export const MOTOGP_WEEKENDS = [
       { slug: "race", label: "Race", datetime: "2026-09-20 14:00" },
     ],
   },
-
   {
     slug: "motogp_japanese_2026",
     name: "Japanese",
+    link: "https://ecal.ai/f/Rq44n/3rT3M",
     sessions: [
       { slug: "fp1", label: "Free Practice 1", datetime: "2026-10-02 03:45" },
       { slug: "practice", label: "Practice", datetime: "2026-10-02 08:00" },
@@ -171,10 +168,10 @@ export const MOTOGP_WEEKENDS = [
       { slug: "race", label: "Race", datetime: "2026-10-04 07:00" },
     ],
   },
-
   {
     slug: "motogp_indonesian_2026",
     name: "Indonesian",
+    link: "https://ecal.ai/f/Rq4DX/3rT3M",
     sessions: [
       { slug: "fp1", label: "Free Practice 1", datetime: "2026-10-09 04:45" },
       { slug: "practice", label: "Practice", datetime: "2026-10-09 09:00" },
@@ -184,10 +181,10 @@ export const MOTOGP_WEEKENDS = [
       { slug: "race", label: "Race", datetime: "2026-10-11 08:00" },
     ],
   },
-
   {
     slug: "motogp_australian_2026",
     name: "Australian",
+    link: "https://ecal.ai/f/Rq5Sw/3rT3M",
     sessions: [
       { slug: "fp1", label: "Free Practice 1", datetime: "2026-10-23 01:45" },
       { slug: "practice", label: "Practice", datetime: "2026-10-23 06:00" },
@@ -197,10 +194,10 @@ export const MOTOGP_WEEKENDS = [
       { slug: "race", label: "Race", datetime: "2026-10-25 04:00" },
     ],
   },
-
   {
     slug: "motogp_malaysian_2026",
     name: "Malaysian",
+    link: "https://ecal.ai/f/Rq5Z4/3rT3M",
     sessions: [
       { slug: "fp1", label: "Free Practice 1", datetime: "2026-10-30 03:45" },
       { slug: "practice", label: "Practice", datetime: "2026-10-30 08:00" },
@@ -210,10 +207,10 @@ export const MOTOGP_WEEKENDS = [
       { slug: "race", label: "Race", datetime: "2026-11-01 08:00" },
     ],
   },
-
   {
     slug: "motogp_qatar_2026",
     name: "Qatar",
+    link: "https://ecal.ai/f/Rp9wZ/3rT3M",
     sessions: [
       { slug: "fp1", label: "Free Practice 1", datetime: "2026-11-06 13:45" },
       { slug: "practice", label: "Practice", datetime: "2026-11-06 18:00" },
@@ -223,10 +220,10 @@ export const MOTOGP_WEEKENDS = [
       { slug: "race", label: "Race", datetime: "2026-11-08 18:00" },
     ],
   },
-
   {
     slug: "motogp_portuguese_2026",
     name: "Portuguese",
+    link: "https://ecal.ai/f/Rq6J7/3rT3M",
     sessions: [
       { slug: "fp1", label: "Free Practice 1", datetime: "2026-11-20 11:45" },
       { slug: "practice", label: "Practice", datetime: "2026-11-20 16:00" },
@@ -236,10 +233,10 @@ export const MOTOGP_WEEKENDS = [
       { slug: "race", label: "Race", datetime: "2026-11-22 14:00" },
     ],
   },
-
   {
     slug: "motogp_valencia_2026",
     name: "Valencia",
+    link: "https://ecal.ai/f/Rq7Bh/3rT3M",
     sessions: [
       { slug: "fp1", label: "Free Practice 1", datetime: "2026-11-27 10:45" },
       { slug: "practice", label: "Practice", datetime: "2026-11-27 15:00" },
@@ -249,5 +246,4 @@ export const MOTOGP_WEEKENDS = [
       { slug: "race", label: "Race", datetime: "2026-11-29 14:00" },
     ],
   },
-
 ];
