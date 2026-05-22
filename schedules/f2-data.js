@@ -1,3 +1,6 @@
+// schedules/f2-data.js
+// Data-only soubor – žádná logika
+
 export const F2_WEEKENDS = [
   {
     slug: "f2_canada_2026",
@@ -7,7 +10,7 @@ export const F2_WEEKENDS = [
       { slug: "fp", label: "Practice", datetime: "2026-05-22 16:05" },
       { slug: "qualifying", label: "Qualifying", datetime: "2026-05-22 20:00" },
       { slug: "sprint", label: "Sprint Race", datetime: "2026-05-23 20:10" },
-      { slug: "feature", label: "Feature Race", datetime: "2026-05-24 18:25" },
+      { slug: "feature", label: "Feature Race", datetime: "2026-05-24 18:05" },
     ],
   },
   {
