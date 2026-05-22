@@ -12,11 +12,12 @@ export const SUPERFORMULA_WEEKENDS = [
     name: "Suzuka",
     link: "https://superformula.net/sf3/race/24422/",
     sessions: [
-      { slug: "fp", label: "Free Practice", datetime: "2026-05-22" },
-      { slug: "q1", label: "Qualifying 1", datetime: "2026-05-23" },
-      { slug: "race1", label: "Race 1", datetime: "2026-05-23" },
-      { slug: "q2", label: "Qualifying 2", datetime: "2026-05-24" },
-      { slug: "race2", label: "Race 2", datetime: "2026-05-24" },
+      { slug: "fp1", label: "Free Practice 1", datetime: "2026-05-22 03:50" },
+      { slug: "fp2", label: "Free Practice 2", datetime: "2026-05-22 08:40" },
+      { slug: "q1", label: "Qualifying", datetime: "2026-05-23 02:15" },
+      { slug: "race1", label: "Race 1", datetime: "2026-05-23 07:45" },
+      { slug: "q2", label: "Qualifying", datetime: "2026-05-24 03:25" },
+      { slug: "race2", label: "Race 2", datetime: "2026-05-24 07:45" },
     ],
   },
 
