@@ -20,10 +20,10 @@ export const FREC_WEEKENDS = [
     name: "Zandvoort",
     link: "https://fiafrec.com/race/zandvoort/",
     sessions: [
-      { slug: "qualifying1", label: "Qualifying 1", datetime: "2026-05-22" },
-      { slug: "race1", label: "Race 1", datetime: "2026-05-23 17:45" },
-      { slug: "qualifying2", label: "Qualifying 2", datetime: "2026-05-24" },
-      { slug: "race2", label: "Race 2", datetime: "2026-05-24 13:30" },
+      { slug: "qualifying1", label: "Qualifying", datetime: "2026-05-23 08:55" },
+      { slug: "race1", label: "Race 1", datetime: "2026-05-23 16:45" },
+      { slug: "qualifying2", label: "Qualifying", datetime: "2026-05-24 08:50" },
+      { slug: "race2", label: "Race 2", datetime: "2026-05-24 16:45" },
     ],
   },
 
