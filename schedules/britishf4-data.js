@@ -28,17 +28,16 @@ sessions: [
 },
 
 {
-slug: "britishf4_silverstone_gp_2026",
-name: "Silverstone GP",
-link: "https://www.silverstone.co.uk/events/silverstone-international-trophy",
-sessions: [
-{ slug: "qualifying", label: "Qualifying", datetime: "2026-05-30" },
-{ slug: "race1", label: "Race 1", datetime: "2026-05-30" },
-{ slug: "race2", label: "Race 2", datetime: "2026-05-31" },
-{ slug: "race3", label: "Race 3", datetime: "2026-05-31" },
-],
-},
-
+    slug: "britishf4_silverstone_gp_2026",
+    name: "Silverstone GP",
+    link: "https://www.silverstone.co.uk/events/silverstone-international-trophy",
+    sessions: [
+      { slug: "qualifying", label: "Qualifying", datetime: "2026-05-30 09:00" },
+      { slug: "race1", label: "Race 1", datetime: "2026-05-30 14:30" },
+      { slug: "race2", label: "Race 2", datetime: "2026-05-31 10:15" },
+      { slug: "race3", label: "Race 3", datetime: "2026-05-31 15:50" },
+    ],
+  },
 {
 slug: "britishf4_zandvoort_2026",
 name: "Zandvoort",
