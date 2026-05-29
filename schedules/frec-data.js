@@ -27,15 +27,16 @@ export const FREC_WEEKENDS = [
     ],
   },
 
-  {
+    {
     slug: "frec_spa_2026",
     name: "Spa-Francorchamps",
     link: "https://fiafrec.com/race/spa-francorchamps/",
     sessions: [
-      { slug: "qualifying1", label: "Qualifying 1", datetime: "2026-05-29" },
-      { slug: "race1", label: "Race 1", datetime: "2026-05-30 14:20" },
-      { slug: "qualifying2", label: "Qualifying 2", datetime: "2026-05-31" },
-      { slug: "race2", label: "Race 2", datetime: "2026-05-31 16:15" },
+      { slug: "qualifying1", label: "Qualifying", datetime: "2026-05-29 14:15" },
+      { slug: "race1", label: "Race 1", datetime: "2026-05-30 10:05" },
+      { slug: "race2", label: "Race 2", datetime: "2026-05-30 14:16" },
+      { slug: "qualifying2", label: "Qualifying", datetime: "2026-05-31 09:55" },
+      { slug: "race3", label: "Race 3", datetime: "2026-05-31 14:20" },
     ],
   },
 
