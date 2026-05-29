@@ -2,16 +2,15 @@
 // Data-only soubor – žádná logika
 
 export const GB3_WEEKENDS = [
-
-  {
+   {
     slug: "gb3_spa_2026",
     name: "Spa-Francorchamps GP",
     link: "",
     sessions: [
-      { slug: "qualifying", label: "Qualifying", datetime: "2026-05-30" },
-      { slug: "race1", label: "Race 1", datetime: "2026-05-30" },
-      { slug: "race2", label: "Race 2", datetime: "2026-05-31" },
-      { slug: "race3", label: "Race 3", datetime: "2026-05-31" },
+      { slug: "qualifying", label: "Qualifying", datetime: "2026-05-29 15:30" },
+      { slug: "race1", label: "Race 1", datetime: "2026-05-30 11:00" },
+      { slug: "race2", label: "Race 2", datetime: "2026-05-30 15:55" },
+      { slug: "race3", label: "Race 3", datetime: "2026-05-31 11:36" },
     ],
   },
 
