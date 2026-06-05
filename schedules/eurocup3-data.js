@@ -1,17 +1,16 @@
 export const EUROCUP3_WEEKENDS = [
 
 {
-  slug: "ec3_portimao_2026",
-  name: "Portimão",
-  link: "https://eurocup3.org/round/2026_algarve/",
-  sessions: [
-    { slug: "fp", label: "Free Practice", datetime: "2026-06-05" },
-    { slug: "qualifying1", label: "Qualifying 1", datetime: "2026-06-06" },
-    { slug: "race1", label: "Race 1", datetime: "2026-06-06" },
-    { slug: "qualifying2", label: "Qualifying 2", datetime: "2026-06-07" },
-    { slug: "race2", label: "Race 2", datetime: "2026-06-07" },
-  ],
-},
+    slug: "ec3_portimao_2026",
+    name: "Portimão",
+    link: "https://eurocup3.org/round/2026_algarve/",
+    sessions: [
+      { slug: "qualifying1", label: "Qualifying", datetime: "2026-06-06 10:00" },
+      { slug: "race1", label: "Race 1", datetime: "2026-06-06 12:15" },
+      { slug: "qualifying2", label: "Qualifying", datetime: "2026-06-07 10:00" },
+      { slug: "race2", label: "Race 2", datetime: "2026-06-07 12:15" },
+    ],
+  },
 
 {
   slug: "ec3_imola_2026",
