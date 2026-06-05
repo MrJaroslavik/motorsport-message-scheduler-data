@@ -13,15 +13,14 @@ export const F2_WEEKENDS = [
       { slug: "feature", label: "Feature Race", datetime: "2026-05-24 18:05" },
     ],
   },
-  {
+ {
     slug: "f2_monaco_2026",
     name: "Monaco",
     link: "https://cal.f2fia.com/f/2b7GpL/3rT45",
     sessions: [
-      { slug: "fp", label: "Practice", datetime: "2026-06-04" },
-      { slug: "qualifying", label: "Qualifying", datetime: "2026-06-05" },
-      { slug: "sprint", label: "Sprint Race", datetime: "2026-06-06" },
-      { slug: "feature", label: "Feature Race", datetime: "2026-06-07" },
+      { slug: "qualifying", label: "Qualifying", datetime: "2026-06-05 15:10" },
+      { slug: "sprint", label: "Sprint Race", datetime: "2026-06-06 14:15" },
+      { slug: "feature", label: "Feature Race", datetime: "2026-06-07 09:25" },
     ],
   },
   {
