@@ -8,11 +8,12 @@ export const PSC_WEEKENDS = [
     name: "Monaco",
     link: "https://motorsports.porsche.com/international/en/category/mobil1supercup",
     sessions: [
-      { slug: "practice", label: "Practice", datetime: "2026-06-05" },
-      { slug: "qualifying", label: "Qualifying", datetime: "2026-06-06" },
-      { slug: "race", label: "Race", datetime: "2026-06-07" },
+      { slug: "qualifying", label: "Qualifying", datetime: "2026-06-05 18:45" },
+      { slug: "race", label: "Race", datetime: "2026-06-07 11:45" },
     ],
   },
+
+]
 
   {
     slug: "psc_barcelona_2026",
