@@ -8,10 +8,10 @@ export const LEMANSCUP_WEEKENDS = [
     name: "Circuit de la Sarthe (Road to Le Mans)",
     link: "https://www.lemanscup.com/en/race/road-to-le-mans-2026",
     sessions: [
-      { slug: "fp1", label: "Free Practice 1", datetime: "2026-06-10" },
-      { slug: "fp2", label: "Free Practice 2", datetime: "2026-06-10" },
-      { slug: "qualifying", label: "Qualifying", datetime: "2026-06-11" },
-      { slug: "race1", label: "Race 1", datetime: "2026-06-11" },
+      { slug: "fp1", label: "Free Practice 1", datetime: "2026-06-10 11:15" },
+      { slug: "fp2", label: "Free Practice 2", datetime: "2026-06-10 20:30" },
+      { slug: "qualifying", label: "Qualifying", datetime: "2026-06-11 10:15" },
+      { slug: "race1", label: "Race 1", datetime: "2026-06-12 10:00" },
     ],
   },
 
