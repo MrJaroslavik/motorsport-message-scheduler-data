@@ -2,15 +2,14 @@
 // Data-only soubor – žádná logika
 
 export const F3_WEEKENDS = [
-  {
+{
     slug: "f3_monaco_2026",
     name: "Monaco",
     link: "https://cal.f3fia.com/f/2b7GzS/3rT4j",
     sessions: [
-      { slug: "practice", label: "Practice", datetime: "2026-06-05" },
-      { slug: "qualifying", label: "Qualifying", datetime: "2026-06-05" },
-      { slug: "sprint", label: "Sprint Race", datetime: "2026-06-06" },
-      { slug: "feature", label: "Feature Race", datetime: "2026-06-07" },
+      { slug: "qualifying", label: "Qualifying", datetime: "2026-06-05 11:05" },
+      { slug: "sprint", label: "Sprint Race", datetime: "2026-06-06 10:45" },
+      { slug: "feature", label: "Feature Race", datetime: "2026-06-07 07:45" },
     ],
   },
 
