@@ -15,15 +15,16 @@ export const F4CEZ_WEEKENDS = [
       { slug: "race4", label: "Race 4", datetime: "2026-05-31 15:55" },
     ],
   },
-  {
+ {
     slug: "f4cez_slovakiaring_2026",
     name: "Slovakia Ring",
     link: "https://www.f4-cez.com/slovakia-ring-2026/",
     sessions: [
-      { slug: "qualifying", label: "Qualifying", datetime: "2026-06-05" },
-      { slug: "race1", label: "Race 1", datetime: "2026-06-06" },
-      { slug: "race2", label: "Race 2", datetime: "2026-06-07" },
-      { slug: "race3", label: "Race 3", datetime: "2026-06-07" },
+      { slug: "qualifying", label: "Qualifying", datetime: "2026-06-05 16:45" },
+      { slug: "race1", label: "Race 1", datetime: "2026-06-06 12:00" },
+      { slug: "race2", label: "Race 2", datetime: "2026-06-06 16:05" },
+      { slug: "race3", label: "Race 3", datetime: "2026-06-07 09:25" },
+      { slug: "race4", label: "Race 4", datetime: "2026-06-07 14:05" },
     ],
   },
 
