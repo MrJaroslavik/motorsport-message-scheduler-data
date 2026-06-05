@@ -5,10 +5,10 @@ export const EUROCUP3_WEEKENDS = [
     name: "Portimão",
     link: "https://eurocup3.org/round/2026_algarve/",
     sessions: [
-      { slug: "qualifying1", label: "Qualifying", datetime: "2026-06-06 10:00" },
-      { slug: "race1", label: "Race 1", datetime: "2026-06-06 12:15" },
-      { slug: "qualifying2", label: "Qualifying", datetime: "2026-06-07 10:00" },
-      { slug: "race2", label: "Race 2", datetime: "2026-06-07 12:15" },
+      { slug: "qualifying1", label: "Qualifying", datetime: "2026-06-06 11:00" },
+      { slug: "race1", label: "Race 1", datetime: "2026-06-06 13:15" },
+      { slug: "qualifying2", label: "Qualifying", datetime: "2026-06-07 11:00" },
+      { slug: "race2", label: "Race 2", datetime: "2026-06-07 13:15" },
     ],
   },
 
