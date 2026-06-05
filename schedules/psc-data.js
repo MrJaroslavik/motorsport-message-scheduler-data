@@ -13,7 +13,6 @@ export const PSC_WEEKENDS = [
     ],
   },
 
-]
 
   {
     slug: "psc_barcelona_2026",
